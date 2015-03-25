@@ -1,0 +1,58 @@
+.top-menu .top-menu-list {
+    background:  #FCA84C;
+}
+
+.m-p-slider-wrapper .bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #FCA84C;
+}
+
+.orderDate {
+    color: #FCA84C;
+}
+
+.order-status strong {
+    color: #FCA84C;
+}
+
+.footer {
+    background: #FCA84C;
+    color: #fff;
+}
+
+.top-menu .top-menu-list li a {
+    border-right:  1px solid #E57F20;
+}
+
+.top-menu .top-menu-list > li + li > a{
+    border-left: 1px solid #EBC9A5;
+}
+
+.top-menu .top-menu-list li .sub_menu{
+    background: #FCA84C;
+}
+
+.top-menu .top-menu-list li .sub_menu > li > a{
+    border-bottom: 1px solid #E57F20;
+}
+
+.top-menu .top-menu-list li .sub_menu > li + li > a{
+    border-top: 1px solid #EBC9A5;
+}
+
+.top-menu .top-menu-list li .sub_menu > li > a:hover{
+    background: #CD883E;
+}
+
+/*Mobile*/
+.wrapper .mobile-categories h2,
+.wrapper .mobile-top-panel{
+    background: #FCA84C;
+}
+
+.wrapper .mobile-top-panel .show-menu-toggle{
+    border-right: 1px solid #E57F20;
+}
+
+.wrapper .mobile-top-panel .show-menu-toggle:before{
+    background: #EBC9A5;
+}

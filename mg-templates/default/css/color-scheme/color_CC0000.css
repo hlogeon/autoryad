@@ -1,0 +1,27 @@
+.top-menu .top-menu-list {
+    background:  #cc0000;
+    color: #F7F7F7;
+}
+.m-p-slider-wrapper .bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #cc0000;
+}
+
+.orderDate {
+    color: #cc0000;
+}
+
+.order-status strong {
+    color: #cc0000;
+}
+
+.footer {
+    background: #cc0000;
+    color: #F7F7F7;
+}
+.top-menu .top-menu-list > li + li > a {
+    border-left: 1px solid #AC0000;
+}
+
+.top-menu .top-menu-list li a {
+    border-right:  1px solid #F62A2A;
+}

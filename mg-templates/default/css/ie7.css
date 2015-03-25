@@ -1,0 +1,5 @@
+.checkout, .enter-btn, .close-order{overflow:visible;}
+.product-details-block .product-slides{width:302px;}
+.product-slides > .bx-wrapper{text-align:left;}
+.cat-list > li{position:relative;z-index:2000;}
+.top-menu-list li a:hover, .top-menu-list .active-menu{background:#F43D3D;}

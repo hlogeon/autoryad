@@ -1,0 +1,64 @@
+.top-menu .top-menu-list {
+    background:  #4D484E;
+    color: #F7F7F7;
+}
+.top-menu .top-menu-list li a  {
+    color: #F7F7F7;
+}
+.m-p-slider-wrapper .bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #4D484E;
+}
+
+.orderDate {
+    color: #4D484E;
+}
+
+.order-status strong {
+    color: #4D484E;
+}
+
+.footer {
+    background: #4D484E;
+    color: #F7F7F7;
+}
+.top-menu .top-menu-list > li + li > a {
+    border-left: 1px solid #D3D1C8;
+}
+
+.top-menu .top-menu-list li a {
+    border-right:  1px solid #000000;
+}
+
+.top-menu .top-menu-list > li + li > a{
+    border-left: 1px solid #7C7C7C;
+}
+
+.top-menu .top-menu-list li .sub_menu{
+    background: #4D484E;
+}
+
+.top-menu .top-menu-list li .sub_menu > li > a{
+    border-bottom: 1px solid #000;
+}
+
+.top-menu .top-menu-list li .sub_menu > li + li > a{
+    border-top: 1px solid #7C7C7C;
+}
+
+.top-menu .top-menu-list li .sub_menu > li > a:hover{
+    background: #29272A;
+}
+
+/*Mobile*/
+.wrapper .mobile-categories h2,
+.wrapper .mobile-top-panel{
+    background: #4D484E;
+}
+
+.wrapper .mobile-top-panel .show-menu-toggle{
+    border-right: 1px solid #000;
+}
+
+.wrapper .mobile-top-panel .show-menu-toggle:before{
+    background: #7C7C7C;
+}
